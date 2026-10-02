@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
-  "url": "https://github.com/gianghuynh0801/AI_Book_Generator_Updates/releases/download/v1.1.1/AI-Book-Generator-Setup-1.1.1.exe",
-  "notes": "Cài đè được khi phần mềm đang mở. Sách và API key được giữ."
+  "version": "1.1.2",
+  "url": "https://github.com/gianghuynh0801/AI_Book_Generator_Updates/releases/download/v1.1.2/AI-Book-Generator-Setup-1.1.2.exe",
+  "notes": "Tên sách to hơn. Thêm một dòng thông điệp dưới hình, trên tên tác giả. Sách và API key được giữ."
 }
