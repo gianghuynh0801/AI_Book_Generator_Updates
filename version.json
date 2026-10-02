@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
-  "url": "https://github.com/gianghuynh0801/AI_Book_Generator_Updates/releases/download/v1.1.0/AI-Book-Generator-Setup-1.1.0.exe",
-  "notes": "Chữ bìa, hình minh họa và gáy được chỉnh. Kiểu chữ và prompt lần lượt đổi khi tạo bìa."
+  "version": "1.1.1",
+  "url": "https://github.com/gianghuynh0801/AI_Book_Generator_Updates/releases/download/v1.1.1/AI-Book-Generator-Setup-1.1.1.exe",
+  "notes": "Cài đè được khi phần mềm đang mở. Sách và API key được giữ."
 }
